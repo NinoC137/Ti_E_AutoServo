@@ -1,0 +1,19 @@
+"D:\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=D:/ArmComplier/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/ArmComplier/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\2023_Ti_SmartCar -B D:\2023_Ti_SmartCar\cmake-build-debug
+-- The C compiler identification is GNU 10.2.1
+-- The CXX compiler identification is GNU 10.2.1
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/ArmComplier/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/ArmComplier/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/ArmComplier/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/2023_Ti_SmartCar/cmake-build-debug
